@@ -12,7 +12,7 @@
 
 	  <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
           <Label Text="TabChild" VerticalOptions="Center" HorizontalOptions="Center" />
-          <Button  />
+          <Button  >
 
 
     </StackLayout>
